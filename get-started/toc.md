@@ -6,7 +6,7 @@
 
 * 前言 Foreword 
 * 序言 Preface 
-* 第一章：什么是 JavaScript ？ Chapter 1: What Is JavaScript? 
+* Chapter 1: What Is JavaScript? （第一章：什么是 JavaScript ？）
     * About This Book
     * What's With That Name?
     * Language Specification
