@@ -1,4 +1,5 @@
 # You Don't Know JS Yet: Get Started - 2nd Edition
+《你还未掌握的JavaScript：入门篇（第二版）》
 
 ## Table of Contents
 
