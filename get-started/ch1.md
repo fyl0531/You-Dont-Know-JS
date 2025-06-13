@@ -1,9 +1,13 @@
 # You Don't Know JS Yet: Get Started - 2nd Edition
 # Chapter 1: What *Is* JavaScript?
+第一章：什么是*JavaScript*
 
 You don't know JS, yet. Neither do I, not fully anyway. None of us do. But we can all start getting to know JS better.
+你还不够了解 JavaScript，其实我也是，没有人能完全掌握。但我们都可以开始更深入地认识它。
 
-In this first chapter of the first book of the *You Don't Know JS Yet* (YDKJSY) series, we will take some time to build a foundation to move forward on. We need to start by covering a variety of important background housekeeping details, clearing up some myths and misconceptions about what the language really is (and isn't!).
+In this first chapter of the first book of the *You Don't Know JS Yet* (YDKJSY) series, we will take some time to build a foundation to move forward on. 
+在*You Don't Know JS Yet*系列首卷第一章中，我们将花些时间打好基础，以便后续深入。
+We need to start by covering a variety of important background housekeeping details, clearing up some myths and misconceptions about what the language really is (and isn't!).
 
 This is valuable insight into the identity and process of how JS is organized and maintained; all JS developers should understand it. If you want to get to know JS, this is how to *get started* taking the first steps in that journey.
 
