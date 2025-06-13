@@ -2,9 +2,12 @@
 《你还未掌握的JavaScript：入门篇（第二版）》
 
 ## Table of Contents
+目录
 
 * Foreword
+前言
 * Preface
+序言
 * Chapter 1: What Is JavaScript?
     * About This Book
     * What's With That Name?
