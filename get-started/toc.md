@@ -4,11 +4,9 @@
 ## Table of Contents
 目录
 
-* Foreword
-前言
-* Preface
-序言
-* Chapter 1: What Is JavaScript?
+* 前言 Foreword 
+* 序言 Preface 
+* 第一章：什么是 JavaScript ？ Chapter 1: What Is JavaScript? 
     * About This Book
     * What's With That Name?
     * Language Specification
